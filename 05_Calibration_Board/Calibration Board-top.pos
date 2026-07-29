@@ -1,0 +1,12 @@
+### Footprint positions - created on 2026-03-13T00:08:54-0400 ###
+### Printed by KiCad version 9.0.7
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val             Package                PosX       PosY       Rot  Side
+J1        0541043631      0541043631         123.3520  -103.1500  -90.0000  top
+J2        NPTC082KFMS-RC  NPTC082KFMS-RC     149.6083  -115.1900   90.0000  top
+J3        NPTC082KFMS-RC  NPTC082KFMS-RC     149.6083   -93.5000   90.0000  top
+J4        0731375003      0731000105         167.1135  -103.1500  -90.0000  top
+J5        NPTC021KFXC-RC  NPTC021KFXC-RC     134.6000   -88.1033    0.0000  top
+J6        NPTC021KFXC-RC  NPTC021KFXC-RC     164.6000   -88.2034    0.0000  top
+## End

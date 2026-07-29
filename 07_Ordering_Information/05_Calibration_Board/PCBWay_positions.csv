@@ -1,0 +1,7 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+123.35201,-103.15,-90.0,top,J1,,Nonstandard 38-pin,0541043631,0541043631,smt
+149.6083,-115.19,90.0,top,J2,,Nonstandard 16-pin,NPTC082KFMS-RC,NPTC082KFMS-RC,smt
+149.6083,-93.5,90.0,top,J3,,Nonstandard 16-pin,NPTC082KFMS-RC,NPTC082KFMS-RC,smt
+167.1135,-103.15,-90.0,top,J4,,Nonstandard 3-pin,0731000105,0731375003,tht
+134.6,-88.10335,0.0,top,J5,,Nonstandard 2-pin,NPTC021KFXC-RC,NPTC021KFXC-RC,smt
+164.6,-88.20335,0.0,top,J6,,Nonstandard 2-pin,NPTC021KFXC-RC,NPTC021KFXC-RC,smt

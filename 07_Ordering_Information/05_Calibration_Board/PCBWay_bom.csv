@@ -1,0 +1,5 @@
+"#","Reference","Qty","Manufacturer","Manufacturer Part #","Supplier","Supplier Part #","Supplier Price ($)","Short Description","Category","Subcategory","Package","Type"
+"1","J1","1","Molex","0541043631","DigiKey","WM8866CT-ND","3.03","CONN FFC FPC TOP 36POS 0.5MM R/A","Connector Assembly","FFC/FPC Connector","Nonstandard 38-pin","SMD"
+"2","J2,J3","2","Sullins Connector Solutions","NPTC082KFMS-RC","DigiKey","S5678-ND","1.74","CONN HDR 16POS 0.1 TIN SMD","Connector Assembly","Header","Nonstandard 16-pin","SMD"
+"3","J4","1","Molex","0731000105","DigiKey","WM5524-ND","2.05","CONN BNC RCPT R/A 50 OHM PCB","Connector Assembly","BNC Mount","Nonstandard 3-pin","Through Hole"
+"4","J5,J6","2","Sullins Connector Solutions","NPTC021KFXC-RC","DigiKey","S5594-ND","0.51","CONN HDR 2POS 0.1 TIN SMD","Connector Assembly","Header","Nonstandard 2-pin","SMD"

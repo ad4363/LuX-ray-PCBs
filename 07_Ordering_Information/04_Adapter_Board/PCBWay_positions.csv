@@ -1,0 +1,10 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+104.3276,-100.0,-90.0,top,J1,,Nonstandard 38-pin,0541043631,0541043631,smt
+130.0,-104.920001,90.0,top,J2,,Nonstandard 33-pin,TSW-111-07-G-T,TSW-111-07-G-T,tht
+130.0,-82.3865,0.0,top,J3,,Nonstandard 3-pin,0731000105,0731375003,tht
+113.5,-82.3865,0.0,top,J4,,Nonstandard 3-pin,0731000105,0731375003,tht
+146.5,-82.3865,0.0,top,J5,,Nonstandard 3-pin,0731000105,0731375003,tht
+155.9652,-99.999995,90.0,top,J6,,Nonstandard 13-pin,0527461171,0527461171,smt
+115.0,-120.0,180.0,top,J7,,Nonstandard 2-pin,NPTC021KFXC-RC,NPTC021KFXC-RC,smt
+145.0,-120.0,180.0,top,J8,,Nonstandard 2-pin,NPTC021KFXC-RC,NPTC021KFXC-RC,smt
+145.0,-90.0,0.0,top,J9,,Nonstandard 2-pin,NPTC021KFXC-RC,NPTC021KFXC-RC,smt
