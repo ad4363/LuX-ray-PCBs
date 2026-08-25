@@ -1051,7 +1051,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "Vishay_IHLP2525CZER1R5M01"
+	(symbol "TDK_SPM6530T-1R5M-HZ"
 		(pin_numbers
 			(hide yes)
 		)
@@ -1087,7 +1087,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductors:Vishay_IHLP2525CZER1R5M01"
+		(property "Footprint" "Inductors:TDK_SPM6530T-1R5M-HZ"
 			(at 0.635 -14.605 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1099,7 +1099,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Datasheet" "https://www.vishay.com/docs/34104/ihlp-2525cz-01.pdf"
+		(property "Datasheet" "https://product.tdk.com/en/system/files?file=dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_power_spm6530-hz_en.pdf"
 			(at 0.635 -14.605 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1110,7 +1110,7 @@
 				)
 			)
 		)
-		(property "Description" "1.5 µH Shielded Molded Inductor 9 A 15mOhm Max Nonstandard"
+		(property "Description" "1.5 µH Shielded Drum Core, Wirewound Inductor 11.6 A 10.67mOhm Max Nonstandard"
 			(at 0.635 -14.605 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1121,7 +1121,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Vishay Dale"
+		(property "Manufacturer" "TDK"
 			(at 0 -13.97 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1132,7 +1132,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part #" "IHLP2525CZER1R5M01"
+		(property "Manufacturer Part #" "SPM6530T-1R5M-HZ"
 			(at 0.635 -14.605 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1154,7 +1154,7 @@
 				)
 			)
 		)
-		(property "Supplier Part #" "541-1007-1-ND"
+		(property "Supplier Part #" "445-180104-1-ND"
 			(at 0.635 -14.605 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1165,7 +1165,7 @@
 				)
 			)
 		)
-		(property "Supplier Price ($)" "1.13"
+		(property "Supplier Price ($)" "1.62"
 			(at 0 -13.97 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1176,7 +1176,7 @@
 				)
 			)
 		)
-		(property "Short Description" "FIXED IND 1.5UH 9A 15 MOHM SMD"
+		(property "Short Description" "FIXED IND 1.5UH 11.6A 10.67 MOHM"
 			(at 0.635 -14.605 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1220,7 +1220,7 @@
 				)
 			)
 		)
-		(property "Subcategory" "Molded Inductor"
+		(property "Subcategory" "Shielded Drum Core Inductor"
 			(at 0.635 -14.605 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1242,7 +1242,7 @@
 				)
 			)
 		)
-		(symbol "Vishay_IHLP2525CZER1R5M01_0_1"
+		(symbol "TDK_SPM6530T-1R5M-HZ_0_1"
 			(arc
 				(start -2.032 0)
 				(mid -1.524 0.5058)
@@ -1292,7 +1292,7 @@
 				)
 			)
 		)
-		(symbol "Vishay_IHLP2525CZER1R5M01_1_1"
+		(symbol "TDK_SPM6530T-1R5M-HZ_1_1"
 			(pin passive line
 				(at -2.54 0 0)
 				(length 0.508)

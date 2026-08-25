@@ -40,8 +40,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 0.84,
-          "width": 0.26
+          "height": 0.28,
+          "width": 1.47
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -730,15 +730,15 @@
         },
         {
           "group_by": false,
-          "label": "Short Description",
-          "name": "Short Description",
-          "show": true
-        },
-        {
-          "group_by": false,
           "label": "Value",
           "name": "Value",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Short Description",
+          "name": "Short Description",
+          "show": true
         },
         {
           "group_by": false,

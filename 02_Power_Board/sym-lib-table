@@ -15,4 +15,5 @@
 	(lib (name "Switches") (type "KiCad") (uri "${KICAD_PRJ_DIR}/01_PCB/06_Project_Component_Library/symbols/Switches.kicad_sym") (options "") (descr ""))
 	(lib (name "TFT Carriers") (type "KiCad") (uri "${KICAD_PRJ_DIR}/01_PCB/06_Project_Component_Library/symbols/TFT Carriers.kicad_sym") (options "") (descr ""))
 	(lib (name "Transistors") (type "KiCad") (uri "${KICAD_PRJ_DIR}/01_PCB/06_Project_Component_Library/symbols/Transistors.kicad_sym") (options "") (descr ""))
+	(lib (name "SPICE") (type "KiCad") (uri "${KICAD_PRJ_DIR}/01_PCB/06_Project_Component_Library/symbols/SPICE.kicad_sym") (options "") (descr ""))
 )

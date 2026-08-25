@@ -262,263 +262,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Capacitors:Murata_GCM155R71E104KE02D"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 1.27)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "C"
-				(at 0 12.7 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(face "Helvetica")
-						(size 1.016 1.016)
-						(thickness 0.1588)
-						(bold yes)
-					)
-				)
-			)
-			(property "Value" "0.1µF(±10%)"
-				(at 0 10.795 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(face "Helvetica")
-						(size 1.016 1.016)
-						(thickness 0.1588)
-					)
-				)
-			)
-			(property "Footprint" "Capacitors:0402 (1005 Metric)"
-				(at -0.127 -25.146 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM155R71E104KE02-01.pdf"
-				(at -0.381 -26.416 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "0.1 µF ±10% 25V Ceramic Capacitor X7R 0402 (1005 Metric)"
-				(at -0.635 -27.94 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Manufacturer" "Murata"
-				(at 0 -23.9 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1 1)
-					)
-				)
-			)
-			(property "Manufacturer Part #" "GCM155R71E104KE02D"
-				(at 0 -25.4 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1 1)
-					)
-				)
-			)
-			(property "Supplier" "DigiKey"
-				(at 0 -26.9 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1 1)
-					)
-				)
-			)
-			(property "Supplier Part #" "490-16431-1-ND"
-				(at 0 -28.4 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1 1)
-					)
-				)
-			)
-			(property "Supplier Price ($)" "0.10"
-				(at 0 -25.4 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Short Description" "CAP CER 0.1UF 25V X7R 0402"
-				(at -0.635 -24.415 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1 1)
-					)
-				)
-			)
-			(property "Package" "0402 (1005 Metric)"
-				(at -0.889 -25.47 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1 1)
-					)
-				)
-			)
-			(property "Type" "SMD"
-				(at -2.54 -27.94 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1 1)
-					)
-				)
-			)
-			(property "Category" "Capacitor"
-				(at 0 -26.624 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Subcategory" "Surface Mount MLCC"
-				(at 0.127 -25.4 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "Capacitors"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "Murata_GCM155R71E104KE02D_0_1"
-				(polyline
-					(pts
-						(xy -1.524 0.508) (xy 1.524 0.508)
-					)
-					(stroke
-						(width 0.3048)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.524 -0.508) (xy 1.524 -0.508)
-					)
-					(stroke
-						(width 0.3302)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "Murata_GCM155R71E104KE02D_1_1"
-				(pin passive line
-					(at 0 2.54 270)
-					(length 2.032)
-					(name ""
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -2.54 90)
-					(length 2.032)
-					(name ""
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Capacitors:Murata_GCM188R71E105KA64D"
 			(pin_numbers
 				(hide yes)
@@ -4948,397 +4691,6 @@
 					(stroke
 						(width 0.381)
 						(type solid)
-					)
-					(fill
-						(type color)
-						(color 255 255 194 1)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Data Acquisition ICs:TI_ADS1115IDGSR"
-			(pin_names
-				(offset 0.254)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "DAIC"
-				(at 16.256 -6.35 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(face "Helvetica")
-						(size 1.016 1.016)
-						(thickness 0.3048)
-						(bold yes)
-					)
-				)
-			)
-			(property "Value" "ADS1115IDGSR"
-				(at 13.97 -50.8 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.524 1.524)
-						(thickness 0.1905)
-					)
-				)
-			)
-			(property "Footprint" "Data Acquisition ICs:10-VSSOP"
-				(at 9.525 -50.8 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fads1113"
-				(at 9.525 -50.8 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "16 Bit Analog to Digital Converter 2, 4 Input 1 Sigma-Delta 10-VSSOP"
-				(at 9.525 -50.8 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Manufacturer" "Texas Instruments"
-				(at 16.256 -7.62 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(face "Helvetica")
-						(size 1.016 1.016)
-						(thickness 0.254)
-					)
-				)
-			)
-			(property "Manufacturer Part #" "ADS1115IDGSR"
-				(at 16.256 -8.89 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(face "Helvetica")
-						(size 1.016 1.016)
-						(thickness 0.254)
-					)
-				)
-			)
-			(property "Supplier" "DigiKey"
-				(at 10.16 -50.8 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Supplier Part #" "MC79M12CDTRKGOSCT-ND"
-				(at 9.525 -50.8 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Supplier Price ($)" "5.28"
-				(at 12.065 -50.8 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Short Description" "IC ADC 16BIT 10-VSSOP"
-				(at 9.525 -50.8 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Package" "10-VSSOP"
-				(at 10.16 -50.8 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Type" "PMIC"
-				(at 10.16 -50.8 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Category" "Data Acquisition IC"
-				(at 9.525 -50.8 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Subcategory" "16-Bit ADC"
-				(at 16.256 -10.414 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(face "Helvetica")
-						(size 1.016 1.016)
-						(thickness 0.254)
-						(color 0 0 255 1)
-					)
-				)
-			)
-			(property "ki_keywords" "Power"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "TI_ADS1115IDGSR_0_0"
-				(pin input line
-					(at -2.54 -2.54 0)
-					(length 2.54)
-					(name "ADDR"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -2.54 -5.08 0)
-					(length 2.54)
-					(name "ALERT/RDY"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -2.54 -7.62 0)
-					(length 2.54)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -2.54 -10.16 0)
-					(length 2.54)
-					(name "AIN0"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -2.54 -12.7 0)
-					(length 2.54)
-					(name "AIN1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 34.29 -12.7 180)
-					(length 2.54)
-					(name "AIN2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 34.29 -10.16 180)
-					(length 2.54)
-					(name "AIN3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 34.29 -7.62 180)
-					(length 2.54)
-					(name "VDD"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 34.29 -5.08 180)
-					(length 2.54)
-					(name "SDA"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "9"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 34.29 -2.54 180)
-					(length 2.54)
-					(name "SCL"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "10"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(symbol "TI_ADS1115IDGSR_1_1"
-				(rectangle
-					(start 0 0)
-					(end 31.75 -15.24)
-					(stroke
-						(width 0.381)
-						(type solid)
-						(color 132 0 0 1)
 					)
 					(fill
 						(type color)
@@ -12796,19 +12148,6 @@
 		)
 		(uuid "ddb2c50e-6c7a-42c1-bacc-f85f727c6729")
 	)
-	(text "EXTERNAL ADC"
-		(exclude_from_sim no)
-		(at 357.124 115.824 0)
-		(effects
-			(font
-				(face "Helvetica")
-				(size 3.81 3.81)
-				(bold yes)
-				(color 132 0 132 1)
-			)
-		)
-		(uuid "e0de6006-756f-4c26-b12e-2826c3f3fc56")
-	)
 	(junction
 		(at 78.74 274.32)
 		(diameter 0)
@@ -12904,12 +12243,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "12e33f99-1426-416e-aff0-5b9131e94c40")
-	)
-	(junction
-		(at 396.24 125.73)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "16c49aae-f256-452c-9c8e-181610c7f10c")
 	)
 	(junction
 		(at 78.74 187.96)
@@ -13098,12 +12431,6 @@
 		(uuid "43656937-2caa-47b4-af66-da85cc1ae17e")
 	)
 	(junction
-		(at 386.08 125.73)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "44cac3ca-1b64-446c-8712-75dd3a5f063d")
-	)
-	(junction
 		(at 76.2 132.08)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -13182,6 +12509,12 @@
 		(uuid "53922faa-558b-4486-b7cf-84766ed6f047")
 	)
 	(junction
+		(at 49.53 73.66)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5412ea82-5028-4ca3-9599-49f920a57106")
+	)
+	(junction
 		(at 196.85 151.13)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -13192,6 +12525,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "607dfe37-af27-4922-8080-2b6a37d2033a")
+	)
+	(junction
+		(at 49.53 76.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "67ab13c3-aa64-446f-8fb1-9f64eec64e27")
 	)
 	(junction
 		(at 139.7 153.67)
@@ -13306,12 +12645,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "89e5c8f5-a773-4c14-b20d-f558490c1352")
-	)
-	(junction
-		(at 375.92 125.73)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8a035656-408c-4d8e-8035-bea323401f7c")
 	)
 	(junction
 		(at 365.76 43.18)
@@ -13476,12 +12809,6 @@
 		(uuid "aaaf514b-3432-4840-accf-35cf391109df")
 	)
 	(junction
-		(at 363.22 223.52)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ab43c5b6-3234-48d1-bf50-03fb600f68dc")
-	)
-	(junction
 		(at 365.76 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -13572,12 +12899,6 @@
 		(uuid "c9b4ee3b-aa97-489e-a578-987397d1c639")
 	)
 	(junction
-		(at 322.58 140.97)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "cb2ec5e2-bbaf-4936-a2b7-a48c44974d36")
-	)
-	(junction
 		(at 78.74 208.28)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -13620,12 +12941,6 @@
 		(uuid "d6c23ae6-17f3-4414-9524-555957d767c9")
 	)
 	(junction
-		(at 375.92 138.43)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d7cd63d7-a0a0-465d-a1db-45cf5ef2a07b")
-	)
-	(junction
 		(at 120.65 146.05)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -13656,10 +12971,10 @@
 		(uuid "df86e59a-ec33-4ef8-b20b-8108de4924a9")
 	)
 	(junction
-		(at 320.04 138.43)
+		(at 49.53 78.74)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "dfbc1c2e-6c77-4669-985c-a6e83c129913")
+		(uuid "e18d295f-ac49-4ba4-b036-85c91d0e3a2b")
 	)
 	(junction
 		(at 177.8 162.56)
@@ -13672,12 +12987,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e340a499-40ec-4feb-ac5b-67355017244a")
-	)
-	(junction
-		(at 386.08 135.89)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e5d92585-5987-4445-b809-fa72f139e485")
 	)
 	(junction
 		(at 203.2 44.45)
@@ -13704,6 +13013,12 @@
 		(uuid "eb130ce3-7b8e-450a-b96e-c4e965ddd3cf")
 	)
 	(junction
+		(at 361.95 228.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "eb97aa77-f91d-4dcd-bdd4-9c4f7ce9d684")
+	)
+	(junction
 		(at 101.6 153.67)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -13726,12 +13041,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f3063989-6ecc-41f3-adc4-229ce248ceae")
-	)
-	(junction
-		(at 396.24 140.97)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f45ce2ba-3a07-4888-9e8c-7729b7dc1328")
 	)
 	(junction
 		(at 139.7 63.5)
@@ -14077,26 +13386,6 @@
 	)
 	(wire
 		(pts
-			(xy 322.58 135.89) (xy 322.58 140.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "11a98703-0515-4101-a0ae-c2a38b191a80")
-	)
-	(wire
-		(pts
-			(xy 388.62 135.89) (xy 386.08 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "11d7d834-4728-4f1c-998e-b5927f0c1dc0")
-	)
-	(wire
-		(pts
 			(xy 78.74 208.28) (xy 78.74 213.36)
 		)
 		(stroke
@@ -14197,26 +13486,6 @@
 	)
 	(wire
 		(pts
-			(xy 320.04 133.35) (xy 320.04 138.43)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "17b70c76-cb70-4f4a-ba52-3817b7ad7931")
-	)
-	(wire
-		(pts
-			(xy 369.57 140.97) (xy 396.24 140.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1930f568-05ea-4930-a0b4-7bf3650aa652")
-	)
-	(wire
-		(pts
 			(xy 297.18 86.36) (xy 302.26 86.36)
 		)
 		(stroke
@@ -14224,16 +13493,6 @@
 			(type default)
 		)
 		(uuid "19b8649b-d424-4c44-a674-fc28abb547db")
-	)
-	(wire
-		(pts
-			(xy 375.92 125.73) (xy 375.92 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1adbe78e-10af-4851-a30a-11134116c5e0")
 	)
 	(wire
 		(pts
@@ -14567,7 +13826,7 @@
 	)
 	(wire
 		(pts
-			(xy 349.25 228.6) (xy 353.06 228.6)
+			(xy 349.25 233.68) (xy 353.06 233.68)
 		)
 		(stroke
 			(width 0)
@@ -14767,16 +14026,6 @@
 	)
 	(wire
 		(pts
-			(xy 369.57 138.43) (xy 375.92 138.43)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "365ae5b2-8d5d-4f62-8e9d-3d5d11be28d0")
-	)
-	(wire
-		(pts
 			(xy 168.91 71.12) (xy 176.53 71.12)
 		)
 		(stroke
@@ -14907,6 +14156,16 @@
 	)
 	(wire
 		(pts
+			(xy 49.53 73.66) (xy 49.53 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3cbbc335-9b8d-469c-8ddf-793c6ceb9214")
+	)
+	(wire
+		(pts
 			(xy 318.77 228.6) (xy 314.96 228.6)
 		)
 		(stroke
@@ -14977,7 +14236,7 @@
 	)
 	(wire
 		(pts
-			(xy 358.14 228.6) (xy 363.22 228.6)
+			(xy 358.14 233.68) (xy 361.95 233.68)
 		)
 		(stroke
 			(width 0)
@@ -15077,16 +14336,6 @@
 	)
 	(wire
 		(pts
-			(xy 320.04 125.73) (xy 375.92 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "476e56ba-474a-47a2-b2d2-9a9ca9fa57b4")
-	)
-	(wire
-		(pts
 			(xy 212.09 54.61) (xy 214.63 54.61)
 		)
 		(stroke
@@ -15144,6 +14393,16 @@
 			(type default)
 		)
 		(uuid "4da37da2-6974-45f6-8f3b-90b8cddb21dd")
+	)
+	(wire
+		(pts
+			(xy 49.53 76.2) (xy 49.53 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e7f0746-1ee7-4085-957f-f76eeabcd944")
 	)
 	(wire
 		(pts
@@ -15687,16 +14946,6 @@
 	)
 	(wire
 		(pts
-			(xy 375.92 125.73) (xy 386.08 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6ea52163-5778-40ec-9f44-3c00b4ea6c9e")
-	)
-	(wire
-		(pts
 			(xy 69.85 243.84) (xy 78.74 243.84)
 		)
 		(stroke
@@ -15977,16 +15226,6 @@
 	)
 	(wire
 		(pts
-			(xy 358.14 223.52) (xy 363.22 223.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8595dc64-3f6b-46db-944a-91fa77a84131")
-	)
-	(wire
-		(pts
 			(xy 153.67 223.52) (xy 156.21 223.52)
 		)
 		(stroke
@@ -16074,26 +15313,6 @@
 			(type default)
 		)
 		(uuid "8d21a2ed-638b-46a6-90b2-77460e3ee2d5")
-	)
-	(wire
-		(pts
-			(xy 396.24 125.73) (xy 396.24 140.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8e3fb3c6-04b6-407b-8f11-cb163fed44cb")
-	)
-	(wire
-		(pts
-			(xy 369.57 135.89) (xy 386.08 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8ed4fa59-8785-4817-8370-b1a52a28abca")
 	)
 	(wire
 		(pts
@@ -16367,16 +15586,6 @@
 	)
 	(wire
 		(pts
-			(xy 375.92 133.35) (xy 375.92 138.43)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9e0b5fd8-94f6-40d1-a46a-7445383901f0")
-	)
-	(wire
-		(pts
 			(xy 269.24 226.06) (xy 269.24 231.14)
 		)
 		(stroke
@@ -16547,6 +15756,16 @@
 	)
 	(wire
 		(pts
+			(xy 361.95 228.6) (xy 363.22 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ab702142-7401-410c-8527-2fad7ef98f66")
+	)
+	(wire
+		(pts
 			(xy 132.08 245.11) (xy 140.97 245.11)
 		)
 		(stroke
@@ -16584,16 +15803,6 @@
 			(type default)
 		)
 		(uuid "ae760158-a940-4477-ba0a-01e9d9331dcb")
-	)
-	(wire
-		(pts
-			(xy 388.62 138.43) (xy 375.92 138.43)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ae9850ff-6443-4587-9b3a-fa35833880e2")
 	)
 	(wire
 		(pts
@@ -16697,13 +15906,13 @@
 	)
 	(wire
 		(pts
-			(xy 386.08 133.35) (xy 386.08 135.89)
+			(xy 361.95 223.52) (xy 361.95 228.6)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b586ea96-5a26-41ee-bbc8-20f06bfc7935")
+		(uuid "b4e64228-ffc7-4f4f-bcc2-ce58e67ff70a")
 	)
 	(wire
 		(pts
@@ -16824,16 +16033,6 @@
 			(type default)
 		)
 		(uuid "be38c79d-7281-4641-8416-7d76cd99fc70")
-	)
-	(wire
-		(pts
-			(xy 332.74 135.89) (xy 322.58 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "be59f2b4-8db3-45ea-89b8-3fb0d8f03081")
 	)
 	(wire
 		(pts
@@ -17027,6 +16226,16 @@
 	)
 	(wire
 		(pts
+			(xy 49.53 78.74) (xy 49.53 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ce968a1b-b6dd-4b0c-81a1-c3b7cec39020")
+	)
+	(wire
+		(pts
 			(xy 179.07 88.9) (xy 186.69 88.9)
 		)
 		(stroke
@@ -17104,16 +16313,6 @@
 			(type default)
 		)
 		(uuid "d19ac795-7b5b-4d90-96a4-e833b01538ee")
-	)
-	(wire
-		(pts
-			(xy 386.08 125.73) (xy 386.08 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d1ebe11a-803c-4696-b653-c935d565b4bc")
 	)
 	(wire
 		(pts
@@ -17204,16 +16403,6 @@
 			(type default)
 		)
 		(uuid "d659f15b-871d-4172-9be5-dd7bbcb52ebf")
-	)
-	(wire
-		(pts
-			(xy 317.5 138.43) (xy 320.04 138.43)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d7364f0e-cf67-48be-8607-223594829ef2")
 	)
 	(wire
 		(pts
@@ -17427,6 +16616,26 @@
 	)
 	(wire
 		(pts
+			(xy 358.14 223.52) (xy 361.95 223.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e70704cd-50e3-4178-831e-bc6180a073cb")
+	)
+	(wire
+		(pts
+			(xy 361.95 233.68) (xy 361.95 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e734250b-2ad1-46c8-be7c-10b35ebfd53d")
+	)
+	(wire
+		(pts
 			(xy 139.7 158.75) (xy 142.24 158.75)
 		)
 		(stroke
@@ -17507,16 +16716,6 @@
 	)
 	(wire
 		(pts
-			(xy 320.04 138.43) (xy 332.74 138.43)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eb6b23a6-053c-4a62-9ed1-79b343f81e6e")
-	)
-	(wire
-		(pts
 			(xy 372.11 73.66) (xy 358.14 73.66)
 		)
 		(stroke
@@ -17524,16 +16723,6 @@
 			(type default)
 		)
 		(uuid "ece6f478-5a35-454c-9e94-eaff802ce41c")
-	)
-	(wire
-		(pts
-			(xy 320.04 125.73) (xy 320.04 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ecf8eb88-545d-4cd0-906f-1e5d921a81db")
 	)
 	(wire
 		(pts
@@ -17547,16 +16736,6 @@
 	)
 	(wire
 		(pts
-			(xy 322.58 140.97) (xy 322.58 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ee355b6e-d5d9-42ec-bd5c-7d1258760c2b")
-	)
-	(wire
-		(pts
 			(xy 358.14 48.26) (xy 372.11 48.26)
 		)
 		(stroke
@@ -17564,16 +16743,6 @@
 			(type default)
 		)
 		(uuid "ee5abc8d-5dba-4e1c-96f9-20da2f7f6635")
-	)
-	(wire
-		(pts
-			(xy 386.08 125.73) (xy 396.24 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f03db5f4-eb97-4401-8537-c8786d8bb65d")
 	)
 	(wire
 		(pts
@@ -17825,16 +16994,6 @@
 		)
 		(uuid "fde45f2d-56d8-481d-91e1-4f13d854a150")
 	)
-	(wire
-		(pts
-			(xy 322.58 140.97) (xy 332.74 140.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fe7f3643-430d-4415-bec3-4d04929d54fb")
-	)
 	(global_label "DRAIN6"
 		(shape input)
 		(at 124.46 196.85 180)
@@ -18003,30 +17162,6 @@
 			)
 		)
 	)
-	(global_label "DAC1"
-		(shape bidirectional)
-		(at 369.57 146.05 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1 1)
-			)
-			(justify left)
-		)
-		(uuid "186f3ab1-2329-4e81-93e3-f4b375fb4bab")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 376.6048 146.05 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "MUX16_SEL0_LS"
 		(shape bidirectional)
 		(at 377.19 60.96 0)
@@ -18136,30 +17271,6 @@
 		(uuid "27ad8b64-9d11-4453-b8e5-658ddd97de17")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 77.5336 185.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "SCL"
-		(shape bidirectional)
-		(at 49.53 78.74 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1 1)
-			)
-			(justify left)
-		)
-		(uuid "27f7620e-184c-4fab-ae58-d918f3bdbf7d")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 55.5172 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18915,30 +18026,6 @@
 			)
 		)
 	)
-	(global_label "ALERT"
-		(shape bidirectional)
-		(at 49.53 76.2 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1 1)
-			)
-			(justify left)
-		)
-		(uuid "747c2b0b-855d-4b7d-b1c2-72a8fc9a7952")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 57.0886 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "DRAIN6"
 		(shape output)
 		(at 69.85 205.74 0)
@@ -18976,30 +18063,6 @@
 		(uuid "75b0b76e-618e-4897-acd8-09121e399b38")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 64.816 73.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
-	(global_label "ALERT"
-		(shape bidirectional)
-		(at 317.5 138.43 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1 1)
-			)
-			(justify right)
-		)
-		(uuid "7aaa534a-4224-4970-b14b-493a0af6d61a")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 309.9414 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19227,30 +18290,6 @@
 			)
 		)
 	)
-	(global_label "SDA"
-		(shape bidirectional)
-		(at 388.62 138.43 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1 1)
-			)
-			(justify left)
-		)
-		(uuid "9c652582-eee9-43f1-9159-78ebe14993ed")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 394.6548 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "DAC2"
 		(shape bidirectional)
 		(at 171.45 83.82 180)
@@ -19360,30 +18399,6 @@
 		(uuid "a9cc0b01-5d18-4b7f-bd90-caeac70bad3a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 241.3 206.9478 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
-	(global_label "TIA_OUT"
-		(shape bidirectional)
-		(at 332.74 143.51 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1 1)
-			)
-			(justify right)
-		)
-		(uuid "aa70f398-3a74-485d-8dcd-8409a84e7836")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 323.8005 143.51 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19851,30 +18866,6 @@
 			)
 		)
 	)
-	(global_label "SDA"
-		(shape bidirectional)
-		(at 49.53 81.28 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1 1)
-			)
-			(justify left)
-		)
-		(uuid "f63cf2da-ef5b-4627-b0c2-33d340a21f34")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 55.5648 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "DAC1"
 		(shape bidirectional)
 		(at 77.47 83.82 180)
@@ -19971,30 +18962,6 @@
 			)
 		)
 	)
-	(global_label "SCL"
-		(shape bidirectional)
-		(at 388.62 135.89 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1 1)
-			)
-			(justify left)
-		)
-		(uuid "fd542456-4f32-4d76-8793-6f1ebfa8c21c")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 394.6072 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "MUX08_EN"
 		(shape bidirectional)
 		(at 49.53 60.96 0)
@@ -20016,30 +18983,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-			)
-		)
-	)
-	(global_label "DAC2"
-		(shape bidirectional)
-		(at 332.74 146.05 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1 1)
-			)
-			(justify right)
-		)
-		(uuid "fe0f2622-9535-4bb4-b309-70e115bd4a75")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 325.7052 146.05 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 			)
 		)
 	)
@@ -20366,85 +19309,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Power Rails:+1V65")
-		(at 369.57 143.51 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "06acc379-66ce-41e0-a41e-416e92dd8e3e")
-		(property "Reference" "#PWR050"
-			(at 358.394 143.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1 1)
-				)
-			)
-		)
-		(property "Value" "+1V65"
-			(at 374.396 143.51 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(face "Helvetica")
-					(size 1.016 1.016)
-					(bold yes)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 369.57 143.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1 1)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 369.57 143.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1 1)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 369.57 143.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "bbe08cfe-219c-416e-858a-9d28dd5e7dbd")
-		)
-		(instances
-			(project "03_Analog_Front_End_Board"
-				(path "/8c8ffaed-8258-4707-addc-1c5043c1d22c"
-					(reference "#PWR050")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Op-Amps:TI_LMP7721MAX_NOPB")
 		(at 257.81 220.98 0)
 		(unit 1)
@@ -20616,7 +19480,7 @@
 				)
 			)
 		)
-		(property "Supplier Price ($)" "5.55"
+		(property "Supplier Price ($)" "6.22"
 			(at 258.445 260.35 0)
 			(hide yes)
 			(show_name no)
@@ -20773,7 +19637,7 @@
 				)
 			)
 		)
-		(property "Supplier Price ($)" "0.20"
+		(property "Supplier Price ($)" "0.19"
 			(at 245.745 226.06 0)
 			(hide yes)
 			(show_name no)
@@ -20967,7 +19831,7 @@
 				)
 			)
 		)
-		(property "Supplier Price ($)" "0.20"
+		(property "Supplier Price ($)" "0.19"
 			(at 338.455 218.44 0)
 			(hide yes)
 			(show_name no)
@@ -21371,7 +20235,7 @@
 				)
 			)
 		)
-		(property "Supplier Price ($)" "0.28"
+		(property "Supplier Price ($)" "0.32"
 			(at 257.81 73.025 0)
 			(hide yes)
 			(show_name no)
@@ -21846,6 +20710,201 @@
 		)
 	)
 	(symbol
+		(lib_id "Resistors:Vishay_CRCW0402100KFKED")
+		(at 370.84 214.63 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "11800967-995b-4a03-b493-38878baaa1cc")
+		(property "Reference" "R41"
+			(at 370.84 211.074 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(face "Helvetica")
+					(size 1.016 1.016)
+					(thickness 0.254)
+					(bold yes)
+				)
+			)
+		)
+		(property "Value" "100kΩ(±1%)"
+			(at 370.84 212.598 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(face "Helvetica")
+					(size 1.016 1.016)
+					(thickness 0.254)
+				)
+			)
+		)
+		(property "Footprint" "Resistors:0402 (1005 Metric)"
+			(at 388.62 213.995 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
+			(at 388.62 213.995 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "100 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
+			(at 388.62 213.995 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Vishay"
+			(at 388.62 215.265 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part #" "CRCW0402100KFKED"
+			(at 388.62 213.995 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier" "DigiKey"
+			(at 388.62 215.265 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier Part #" "541-100KLCT-ND"
+			(at 388.62 213.995 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Short Description" "RES 100K OHM 1% 1/16W 0402"
+			(at 388.62 213.995 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "0402 (1005 Metric)"
+			(at 388.62 213.995 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Type" "SMD"
+			(at 388.62 215.265 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Category" "Resistor"
+			(at 388.62 215.265 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Subcategory" "Surface Mount Think Film Resistor"
+			(at 388.62 213.995 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier Price ($)" "0.10"
+			(at 388.62 214.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "1becebbc-7c07-4954-b307-5e7839dfef3c")
+		)
+		(pin "1"
+			(uuid "348596f8-bb9f-4431-a862-22db2c9cbff2")
+		)
+		(instances
+			(project "03_Analog_Front_End_Board"
+				(path "/8c8ffaed-8258-4707-addc-1c5043c1d22c"
+					(reference "R41")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Capacitors:Murata_GCM188R71E105KA64D")
 		(at 209.55 44.45 90)
 		(unit 1)
@@ -21958,7 +21017,7 @@
 				)
 			)
 		)
-		(property "Supplier Price ($)" "0.20"
+		(property "Supplier Price ($)" "0.19"
 			(at 226.695 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -22152,7 +21211,7 @@
 				)
 			)
 		)
-		(property "Supplier Price ($)" "0.20"
+		(property "Supplier Price ($)" "0.19"
 			(at 280.035 215.9 0)
 			(hide yes)
 			(show_name no)
@@ -22228,204 +21287,6 @@
 			(project "03_Analog_Front_End_Board"
 				(path "/8c8ffaed-8258-4707-addc-1c5043c1d22c"
 					(reference "C22")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Resistors:Vishay_CRCW040210K0FKED")
-		(at 375.92 130.81 0)
-		(mirror y)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "12ee75e4-41d8-47a7-ac73-62164e38a82a")
-		(property "Reference" "R44"
-			(at 374.396 130.048 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(face "Helvetica")
-					(size 1.016 1.016)
-					(thickness 0.1588)
-					(bold yes)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10kΩ(±1%)"
-			(at 374.65 131.826 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(face "Helvetica")
-					(size 1.016 1.016)
-					(thickness 0.1588)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistors:0402 (1005 Metric)"
-			(at 375.285 145.415 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
-			(at 375.285 145.415 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "10 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
-			(at 375.285 145.415 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "Vishay"
-			(at 375.285 145.415 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer Part #" "CRCW040210K0FKED"
-			(at 375.92 145.415 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Supplier" "DigiKey"
-			(at 375.285 145.415 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Supplier Part #" "541-10.0KLCT-ND"
-			(at 375.92 145.415 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Supplier Price ($)" "0.10"
-			(at 375.92 144.78 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Short Description" "RES 10K OHM 1% 1/16W 0402"
-			(at 375.285 145.415 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Package" "0402 (1005 Metric)"
-			(at 375.92 145.415 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Type" "SMD"
-			(at 375.285 145.415 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Category" "Resistor"
-			(at 375.285 145.415 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Subcategory" "Surface Mount Think Film Resistor"
-			(at 375.285 145.415 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "e3fa1683-2761-470e-b5f7-a21f6a3f29f3")
-		)
-		(pin "2"
-			(uuid "4ccd5fe4-6a10-46aa-a40d-dd0045cec7b4")
-		)
-		(instances
-			(project "03_Analog_Front_End_Board"
-				(path "/8c8ffaed-8258-4707-addc-1c5043c1d22c"
-					(reference "R44")
 					(unit 1)
 				)
 			)
@@ -22746,7 +21607,7 @@
 				)
 			)
 		)
-		(property "Supplier Price ($)" "0.14"
+		(property "Supplier Price ($)" "0.15"
 			(at 73.66 167.005 0)
 			(hide yes)
 			(show_name no)
@@ -23134,7 +21995,7 @@
 				)
 			)
 		)
-		(property "Supplier Price ($)" "0.20"
+		(property "Supplier Price ($)" "0.19"
 			(at 151.13 95.885 0)
 			(hide yes)
 			(show_name no)
@@ -23440,7 +22301,7 @@
 				)
 			)
 		)
-		(property "Value" "OPA2192IDGKR"
+		(property "Value" "OPA2192IDGKT"
 			(at 196.215 118.745 0)
 			(hide yes)
 			(show_name no)
@@ -23499,7 +22360,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part #" "OPA2192IDGKR"
+		(property "Manufacturer Part #" "OPA2192IDGKT"
 			(at 203.2 68.326 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23511,7 +22372,7 @@
 				)
 			)
 		)
-		(property "Supplier" "DigiKey"
+		(property "Supplier" "Mouser"
 			(at 202.565 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -23522,7 +22383,7 @@
 				)
 			)
 		)
-		(property "Supplier Part #" "296-44480-1-ND"
+		(property "Supplier Part #" "595-OPA2192IDGKT "
 			(at 202.565 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -23533,7 +22394,7 @@
 				)
 			)
 		)
-		(property "Supplier Price ($)" "4.78"
+		(property "Supplier Price ($)" "6.23"
 			(at 203.2 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -24183,204 +23044,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Resistors:Vishay_CRCW040210K0FKED")
-		(at 386.08 130.81 0)
-		(mirror y)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "29d9267f-47a7-4c59-b88b-c6ce1a5104d2")
-		(property "Reference" "R45"
-			(at 384.81 130.048 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(face "Helvetica")
-					(size 1.016 1.016)
-					(thickness 0.1588)
-					(bold yes)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10kΩ(±1%)"
-			(at 385.064 132.08 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(face "Helvetica")
-					(size 1.016 1.016)
-					(thickness 0.1588)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistors:0402 (1005 Metric)"
-			(at 385.445 145.415 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
-			(at 385.445 145.415 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "10 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
-			(at 385.445 145.415 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "Vishay"
-			(at 385.445 145.415 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer Part #" "CRCW040210K0FKED"
-			(at 386.08 145.415 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Supplier" "DigiKey"
-			(at 385.445 145.415 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Supplier Part #" "541-10.0KLCT-ND"
-			(at 386.08 145.415 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Supplier Price ($)" "0.10"
-			(at 386.08 144.78 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Short Description" "RES 10K OHM 1% 1/16W 0402"
-			(at 385.445 145.415 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Package" "0402 (1005 Metric)"
-			(at 386.08 145.415 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Type" "SMD"
-			(at 385.445 145.415 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Category" "Resistor"
-			(at 385.445 145.415 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Subcategory" "Surface Mount Think Film Resistor"
-			(at 385.445 145.415 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "93a7fb03-89f8-408d-915b-24534f51f585")
-		)
-		(pin "2"
-			(uuid "53c8cfce-1430-4b29-9c90-47a84da492ae")
-		)
-		(instances
-			(project "03_Analog_Front_End_Board"
-				(path "/8c8ffaed-8258-4707-addc-1c5043c1d22c"
-					(reference "R45")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Power Rails:GND")
 		(at 340.36 236.22 0)
 		(mirror y)
@@ -24455,85 +23118,6 @@
 			(project "03_Analog_Front_End_Board"
 				(path "/8c8ffaed-8258-4707-addc-1c5043c1d22c"
 					(reference "#PWR35")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Power Rails:+3V3_FILT")
-		(at 396.24 125.73 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "2da5a766-ae9b-46a1-ab74-40aa838b86fb")
-		(property "Reference" "#PWR046"
-			(at 396.24 136.906 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1 1)
-				)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 396.24 121.92 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(face "Helvetica")
-					(size 1.016 1.016)
-					(bold yes)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 396.24 125.73 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1 1)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 396.24 125.73 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1 1)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 396.24 125.73 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "c43e722f-3d2f-4ab2-84b1-bd00dc201281")
-		)
-		(instances
-			(project "03_Analog_Front_End_Board"
-				(path "/8c8ffaed-8258-4707-addc-1c5043c1d22c"
-					(reference "#PWR046")
 					(unit 1)
 				)
 			)
@@ -25216,7 +23800,7 @@
 				)
 			)
 		)
-		(property "Supplier Price ($)" "0.14"
+		(property "Supplier Price ($)" "0.15"
 			(at 118.11 165.735 0)
 			(hide yes)
 			(show_name no)
@@ -25490,7 +24074,7 @@
 				)
 			)
 		)
-		(property "Supplier Price ($)" "0.14"
+		(property "Supplier Price ($)" "0.15"
 			(at 99.06 173.355 0)
 			(hide yes)
 			(show_name no)
@@ -25651,399 +24235,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Resistors:Vishay_CRCW040210K0FKED")
-		(at 320.04 130.81 0)
-		(mirror y)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "35b310be-8e0d-4620-a520-73e1e628aced")
-		(property "Reference" "R43"
-			(at 317.5 129.5399 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(face "Helvetica")
-					(size 1.016 1.016)
-					(thickness 0.1588)
-					(bold yes)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10kΩ(±1%)"
-			(at 317.5 132.0799 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(face "Helvetica")
-					(size 1.016 1.016)
-					(thickness 0.1588)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistors:0402 (1005 Metric)"
-			(at 319.405 145.415 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
-			(at 319.405 145.415 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "10 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
-			(at 319.405 145.415 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "Vishay"
-			(at 319.405 145.415 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer Part #" "CRCW040210K0FKED"
-			(at 320.04 145.415 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Supplier" "DigiKey"
-			(at 319.405 145.415 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Supplier Part #" "541-10.0KLCT-ND"
-			(at 320.04 145.415 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Supplier Price ($)" "0.10"
-			(at 320.04 144.78 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Short Description" "RES 10K OHM 1% 1/16W 0402"
-			(at 319.405 145.415 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Package" "0402 (1005 Metric)"
-			(at 320.04 145.415 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Type" "SMD"
-			(at 319.405 145.415 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Category" "Resistor"
-			(at 319.405 145.415 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Subcategory" "Surface Mount Think Film Resistor"
-			(at 319.405 145.415 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "df36c110-ad48-441b-93f6-861c1e6c53f0")
-		)
-		(pin "2"
-			(uuid "be45ebe2-21d3-406f-ab00-3dd8b2dc7be0")
-		)
-		(instances
-			(project "03_Analog_Front_End_Board"
-				(path "/8c8ffaed-8258-4707-addc-1c5043c1d22c"
-					(reference "R43")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Capacitors:Murata_GCM155R71E104KE02D")
-		(at 396.24 143.51 0)
-		(mirror y)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "35c34e4f-ac89-4ae1-ad60-0a9ccfd367ee")
-		(property "Reference" "C27"
-			(at 390.144 143.002 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(face "Helvetica")
-					(size 1.016 1.016)
-					(thickness 0.1588)
-					(bold yes)
-				)
-			)
-		)
-		(property "Value" "0.1µF(±10%)"
-			(at 390.144 144.526 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(face "Helvetica")
-					(size 1.016 1.016)
-					(thickness 0.1588)
-				)
-			)
-		)
-		(property "Footprint" "Capacitors:0402 (1005 Metric)"
-			(at 396.367 168.656 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM155R71E104KE02-01.pdf"
-			(at 396.621 169.926 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "0.1 µF ±10% 25V Ceramic Capacitor X7R 0402 (1005 Metric)"
-			(at 396.875 171.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "Murata"
-			(at 396.24 167.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1 1)
-				)
-			)
-		)
-		(property "Manufacturer Part #" "GCM155R71E104KE02D"
-			(at 396.24 168.91 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1 1)
-				)
-			)
-		)
-		(property "Supplier" "DigiKey"
-			(at 396.24 170.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1 1)
-				)
-			)
-		)
-		(property "Supplier Part #" "490-16431-1-ND"
-			(at 396.24 171.91 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1 1)
-				)
-			)
-		)
-		(property "Supplier Price ($)" "0.10"
-			(at 396.24 168.91 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Short Description" "CAP CER 0.1UF 25V X7R 0402"
-			(at 396.875 167.925 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1 1)
-				)
-			)
-		)
-		(property "Package" "0402 (1005 Metric)"
-			(at 397.129 168.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1 1)
-				)
-			)
-		)
-		(property "Type" "SMD"
-			(at 398.78 171.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1 1)
-				)
-			)
-		)
-		(property "Category" "Capacitor"
-			(at 396.24 170.134 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Subcategory" "Surface Mount MLCC"
-			(at 396.113 168.91 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "9a309749-d115-4014-8f5e-0a3e093f580e")
-		)
-		(pin "1"
-			(uuid "5ef97786-8ab6-4760-ba68-ed26a86cf2dd")
-		)
-		(instances
-			(project "03_Analog_Front_End_Board"
-				(path "/8c8ffaed-8258-4707-addc-1c5043c1d22c"
-					(reference "C27")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Resistors:Vishay_CRCW040273K2FKED")
 		(at 205.74 76.2 90)
 		(unit 1)
@@ -26166,7 +24357,7 @@
 				)
 			)
 		)
-		(property "Short Description" "RES 73.2K OHM 1% 1/10W 0402"
+		(property "Short Description" "RES 73.2K OHM 1% 1/16W 0402"
 			(at 220.345 75.565 0)
 			(hide yes)
 			(show_name no)
@@ -26814,7 +25005,7 @@
 				)
 			)
 		)
-		(property "Supplier Price ($)" "0.28"
+		(property "Supplier Price ($)" "0.32"
 			(at 332.74 98.425 0)
 			(hide yes)
 			(show_name no)
@@ -27014,7 +25205,7 @@
 				)
 			)
 		)
-		(property "Supplier Price ($)" "0.14"
+		(property "Supplier Price ($)" "0.15"
 			(at 73.66 151.765 0)
 			(hide yes)
 			(show_name no)
@@ -27208,7 +25399,7 @@
 				)
 			)
 		)
-		(property "Supplier Price ($)" "7.57"
+		(property "Supplier Price ($)" "7.69"
 			(at 103.505 173.355 0)
 			(hide yes)
 			(show_name no)
@@ -27846,199 +26037,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Resistors:Vishay_CRCW040266K5FKED")
-		(at 355.6 214.63 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "405693e0-0e40-4ed6-8f8d-c7aa29d7e545")
-		(property "Reference" "R42"
-			(at 355.6 211.582 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(face "Helvetica")
-					(size 1.016 1.016)
-					(bold yes)
-				)
-			)
-		)
-		(property "Value" "100kΩ(±1%)"
-			(at 355.346 213.106 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(face "Helvetica")
-					(size 1.016 1.016)
-				)
-			)
-		)
-		(property "Footprint" "Resistors:0402 (1005 Metric)"
-			(at 370.205 213.995 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
-			(at 370.205 213.995 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "66.5 kOhms ±1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
-			(at 370.205 213.995 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "Vishay"
-			(at 369.57 214.63 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer Part #" "CRCW040266K5FKED"
-			(at 370.205 213.995 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Supplier" "DigiKey"
-			(at 369.57 214.63 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Supplier Part #" "541-66.5KLCT-ND"
-			(at 370.205 213.995 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Supplier Price ($)" "0.10"
-			(at 370.205 213.995 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Short Description" "RES 66.5K OHM 1% 1/10W 0402"
-			(at 370.205 213.995 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Package" "0402 (1005 Metric)"
-			(at 370.205 213.995 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Type" "SMD"
-			(at 369.57 214.63 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Category" "Resistor"
-			(at 370.205 214.63 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Subcategory" "Surface Mount Think Film Resistor"
-			(at 370.205 213.995 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "e4133511-771e-45f8-ad54-5f67afce7ca6")
-		)
-		(pin "2"
-			(uuid "88d5e383-c0ac-4b75-bc29-d1902f5bd23a")
-		)
-		(instances
-			(project "03_Analog_Front_End_Board"
-				(path "/8c8ffaed-8258-4707-addc-1c5043c1d22c"
-					(reference "R42")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Power Rails:GND")
 		(at 78.74 274.32 0)
 		(mirror y)
@@ -28232,7 +26230,7 @@
 				)
 			)
 		)
-		(property "Supplier Price ($)" "12.72"
+		(property "Supplier Price ($)" "13.10"
 			(at 168.656 135.382 0)
 			(hide yes)
 			(show_name no)
@@ -28488,199 +26486,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Resistors:Vishay_CRCW040266K5FKED")
-		(at 355.6 223.52 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "4797d20f-75a4-4b1f-9c2e-e66b70488380")
-		(property "Reference" "R39"
-			(at 355.6 220.472 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(face "Helvetica")
-					(size 1.016 1.016)
-					(bold yes)
-				)
-			)
-		)
-		(property "Value" "100kΩ(±1%)"
-			(at 355.346 221.996 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(face "Helvetica")
-					(size 1.016 1.016)
-				)
-			)
-		)
-		(property "Footprint" "Resistors:0402 (1005 Metric)"
-			(at 370.205 222.885 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
-			(at 370.205 222.885 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "66.5 kOhms ±1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
-			(at 370.205 222.885 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "Vishay"
-			(at 369.57 223.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer Part #" "CRCW040266K5FKED"
-			(at 370.205 222.885 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Supplier" "DigiKey"
-			(at 369.57 223.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Supplier Part #" "541-66.5KLCT-ND"
-			(at 370.205 222.885 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Supplier Price ($)" "0.10"
-			(at 370.205 222.885 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Short Description" "RES 66.5K OHM 1% 1/10W 0402"
-			(at 370.205 222.885 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Package" "0402 (1005 Metric)"
-			(at 370.205 222.885 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Type" "SMD"
-			(at 369.57 223.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Category" "Resistor"
-			(at 370.205 223.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Subcategory" "Surface Mount Think Film Resistor"
-			(at 370.205 222.885 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "afefe81d-ff37-472c-bbe1-ad435c02cfba")
-		)
-		(pin "2"
-			(uuid "13612ebc-aaf4-4e40-ba2c-8ff2f1b6c2cf")
-		)
-		(instances
-			(project "03_Analog_Front_End_Board"
-				(path "/8c8ffaed-8258-4707-addc-1c5043c1d22c"
-					(reference "R39")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector Assemblies:Wurth_61302011121")
 		(at 82.55 43.18 0)
 		(unit 1)
@@ -28929,6 +26734,201 @@
 			(project "03_Analog_Front_End_Board"
 				(path "/8c8ffaed-8258-4707-addc-1c5043c1d22c"
 					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Resistors:Vishay_CRCW0402100KFKED")
+		(at 355.6 233.68 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "4993a145-76aa-41c1-b6cc-da6e30376e8a")
+		(property "Reference" "R40"
+			(at 355.6 230.124 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(face "Helvetica")
+					(size 1.016 1.016)
+					(thickness 0.254)
+					(bold yes)
+				)
+			)
+		)
+		(property "Value" "100kΩ(±1%)"
+			(at 355.6 231.648 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(face "Helvetica")
+					(size 1.016 1.016)
+					(thickness 0.254)
+				)
+			)
+		)
+		(property "Footprint" "Resistors:0402 (1005 Metric)"
+			(at 373.38 233.045 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
+			(at 373.38 233.045 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "100 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
+			(at 373.38 233.045 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Vishay"
+			(at 373.38 234.315 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part #" "CRCW0402100KFKED"
+			(at 373.38 233.045 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier" "DigiKey"
+			(at 373.38 234.315 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier Part #" "541-100KLCT-ND"
+			(at 373.38 233.045 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Short Description" "RES 100K OHM 1% 1/16W 0402"
+			(at 373.38 233.045 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "0402 (1005 Metric)"
+			(at 373.38 233.045 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Type" "SMD"
+			(at 373.38 234.315 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Category" "Resistor"
+			(at 373.38 234.315 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Subcategory" "Surface Mount Think Film Resistor"
+			(at 373.38 233.045 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier Price ($)" "0.10"
+			(at 373.38 233.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "e3e5945d-67d3-4d67-aa43-46bf00a18eb6")
+		)
+		(pin "1"
+			(uuid "526b858a-6c5e-4d10-a26d-ff01e6d611e7")
+		)
+		(instances
+			(project "03_Analog_Front_End_Board"
+				(path "/8c8ffaed-8258-4707-addc-1c5043c1d22c"
+					(reference "R40")
 					(unit 1)
 				)
 			)
@@ -29848,7 +27848,7 @@
 				)
 			)
 		)
-		(property "Supplier Price ($)" "0.28"
+		(property "Supplier Price ($)" "0.32"
 			(at 332.74 60.325 0)
 			(hide yes)
 			(show_name no)
@@ -30613,7 +28613,7 @@
 				)
 			)
 		)
-		(property "Supplier Price ($)" "0.28"
+		(property "Supplier Price ($)" "0.32"
 			(at 332.74 73.025 0)
 			(hide yes)
 			(show_name no)
@@ -31085,7 +29085,7 @@
 				)
 			)
 		)
-		(property "Supplier Price ($)" "0.13"
+		(property "Supplier Price ($)" "0.14"
 			(at 213.36 173.355 0)
 			(hide yes)
 			(show_name no)
@@ -32071,7 +30071,7 @@
 				)
 			)
 		)
-		(property "Value" "OPA2192IDGKR"
+		(property "Value" "OPA2192IDGKT"
 			(at 196.215 81.915 0)
 			(hide yes)
 			(show_name no)
@@ -32131,7 +30131,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part #" "OPA2192IDGKR"
+		(property "Manufacturer Part #" "OPA2192IDGKT"
 			(at 203.2 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -32144,7 +30144,7 @@
 				)
 			)
 		)
-		(property "Supplier" "DigiKey"
+		(property "Supplier" "Mouser"
 			(at 202.565 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -32155,7 +30155,7 @@
 				)
 			)
 		)
-		(property "Supplier Part #" "296-44480-1-ND"
+		(property "Supplier Part #" "595-OPA2192IDGKT "
 			(at 202.565 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -32166,7 +30166,7 @@
 				)
 			)
 		)
-		(property "Supplier Price ($)" "4.78"
+		(property "Supplier Price ($)" "6.23"
 			(at 203.2 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -34068,7 +32068,7 @@
 				)
 			)
 		)
-		(property "Supplier Price ($)" "0.28"
+		(property "Supplier Price ($)" "0.32"
 			(at 257.81 60.325 0)
 			(hide yes)
 			(show_name no)
@@ -34349,7 +32349,7 @@
 				)
 			)
 		)
-		(property "Supplier Price ($)" "0.28"
+		(property "Supplier Price ($)" "0.32"
 			(at 332.74 85.725 0)
 			(hide yes)
 			(show_name no)
@@ -34548,7 +32548,7 @@
 				)
 			)
 		)
-		(property "Supplier Price ($)" "0.20"
+		(property "Supplier Price ($)" "0.19"
 			(at 259.715 238.76 0)
 			(hide yes)
 			(show_name no)
@@ -35012,6 +33012,201 @@
 			(project "03_Analog_Front_End_Board"
 				(path "/8c8ffaed-8258-4707-addc-1c5043c1d22c"
 					(reference "R13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Resistors:Vishay_CRCW0402100KFKED")
+		(at 355.6 223.52 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "8251316e-9aaa-409d-9def-4e72a8a036c0")
+		(property "Reference" "R39"
+			(at 355.6 219.964 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(face "Helvetica")
+					(size 1.016 1.016)
+					(thickness 0.254)
+					(bold yes)
+				)
+			)
+		)
+		(property "Value" "100kΩ(±1%)"
+			(at 355.6 221.488 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(face "Helvetica")
+					(size 1.016 1.016)
+					(thickness 0.254)
+				)
+			)
+		)
+		(property "Footprint" "Resistors:0402 (1005 Metric)"
+			(at 373.38 222.885 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
+			(at 373.38 222.885 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "100 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
+			(at 373.38 222.885 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Vishay"
+			(at 373.38 224.155 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part #" "CRCW0402100KFKED"
+			(at 373.38 222.885 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier" "DigiKey"
+			(at 373.38 224.155 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier Part #" "541-100KLCT-ND"
+			(at 373.38 222.885 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Short Description" "RES 100K OHM 1% 1/16W 0402"
+			(at 373.38 222.885 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "0402 (1005 Metric)"
+			(at 373.38 222.885 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Type" "SMD"
+			(at 373.38 224.155 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Category" "Resistor"
+			(at 373.38 224.155 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Subcategory" "Surface Mount Think Film Resistor"
+			(at 373.38 222.885 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier Price ($)" "0.10"
+			(at 373.38 223.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "24875d55-700e-4e82-aa29-4de7b95b70fe")
+		)
+		(pin "1"
+			(uuid "e2ad429d-ed4e-43f9-b9e0-87bc06885646")
+		)
+		(instances
+			(project "03_Analog_Front_End_Board"
+				(path "/8c8ffaed-8258-4707-addc-1c5043c1d22c"
+					(reference "R39")
 					(unit 1)
 				)
 			)
@@ -35778,7 +33973,7 @@
 				)
 			)
 		)
-		(property "Supplier Price ($)" "0.20"
+		(property "Supplier Price ($)" "0.19"
 			(at 259.715 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -36460,7 +34655,7 @@
 				)
 			)
 		)
-		(property "Short Description" "RES 73.2K OHM 1% 1/10W 0402"
+		(property "Short Description" "RES 73.2K OHM 1% 1/16W 0402"
 			(at 220.345 36.195 0)
 			(hide yes)
 			(show_name no)
@@ -36644,7 +34839,7 @@
 				)
 			)
 		)
-		(property "Supplier Price ($)" "0.14"
+		(property "Supplier Price ($)" "0.15"
 			(at 73.66 172.085 0)
 			(hide yes)
 			(show_name no)
@@ -37815,86 +36010,6 @@
 			(project "03_Analog_Front_End_Board"
 				(path "/8c8ffaed-8258-4707-addc-1c5043c1d22c"
 					(reference "#PWR040")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Power Rails:GND")
-		(at 322.58 147.32 0)
-		(mirror y)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "9e0e64c6-b243-423a-a7f7-6da24217aa13")
-		(property "Reference" "#PWR047"
-			(at 322.58 145.32 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1 1)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 322.58 151.13 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(face "Helvetica")
-					(size 1.016 1.016)
-					(bold yes)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 322.58 147.32 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1 1)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 322.58 147.32 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1 1)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 322.58 147.32 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "a1afb99a-587a-49b5-b36b-117167d9ccd2")
-		)
-		(instances
-			(project "03_Analog_Front_End_Board"
-				(path "/8c8ffaed-8258-4707-addc-1c5043c1d22c"
-					(reference "#PWR047")
 					(unit 1)
 				)
 			)
@@ -39863,7 +37978,7 @@
 				)
 			)
 		)
-		(property "Supplier Price ($)" "0.14"
+		(property "Supplier Price ($)" "0.15"
 			(at 73.66 161.925 0)
 			(hide yes)
 			(show_name no)
@@ -40057,7 +38172,7 @@
 				)
 			)
 		)
-		(property "Supplier Price ($)" "0.20"
+		(property "Supplier Price ($)" "0.19"
 			(at 198.755 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -40449,7 +38564,7 @@
 				)
 			)
 		)
-		(property "Supplier Price ($)" "0.28"
+		(property "Supplier Price ($)" "0.32"
 			(at 332.74 47.625 0)
 			(hide yes)
 			(show_name no)
@@ -40932,7 +39047,7 @@
 				)
 			)
 		)
-		(property "Short Description" "RES 73.2K OHM 1% 1/10W 0402"
+		(property "Short Description" "RES 73.2K OHM 1% 1/16W 0402"
 			(at 194.945 108.585 0)
 			(hide yes)
 			(show_name no)
@@ -41199,228 +39314,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Data Acquisition ICs:TI_ADS1115IDGSR")
-		(at 335.28 133.35 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "bfff69d4-c105-40c7-aca1-29f320b65a2f")
-		(property "Reference" "DAIC1"
-			(at 350.774 139.192 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(face "Helvetica")
-					(size 1.016 1.016)
-					(thickness 0.3048)
-					(bold yes)
-				)
-			)
-		)
-		(property "Value" "ADS1115IDGSR"
-			(at 349.25 184.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.524 1.524)
-					(thickness 0.1905)
-				)
-			)
-		)
-		(property "Footprint" "Data Acquisition ICs:10-VSSOP"
-			(at 344.805 184.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fads1113"
-			(at 344.805 184.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "16 Bit Analog to Digital Converter 2, 4 Input 1 Sigma-Delta 10-VSSOP"
-			(at 344.805 184.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "Texas Instruments"
-			(at 350.774 140.716 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(face "Helvetica")
-					(size 1.016 1.016)
-					(thickness 0.254)
-				)
-			)
-		)
-		(property "Manufacturer Part #" "ADS1115IDGSR"
-			(at 350.774 142.24 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(face "Helvetica")
-					(size 1.016 1.016)
-					(thickness 0.254)
-				)
-			)
-		)
-		(property "Supplier" "DigiKey"
-			(at 345.44 184.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Supplier Part #" "MC79M12CDTRKGOSCT-ND"
-			(at 344.805 184.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Supplier Price ($)" "5.28"
-			(at 347.345 184.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Short Description" "IC ADC 16BIT 10-VSSOP"
-			(at 344.805 184.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Package" "10-VSSOP"
-			(at 345.44 184.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Type" "PMIC"
-			(at 345.44 184.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Category" "Data Acquisition IC"
-			(at 344.805 184.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Subcategory" "16-Bit ADC"
-			(at 350.774 143.764 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(face "Helvetica")
-					(size 1.016 1.016)
-					(thickness 0.254)
-					(color 0 0 255 1)
-				)
-			)
-		)
-		(pin "5"
-			(uuid "f3ef6256-6e48-4aaa-b82c-9e1ec19b9663")
-		)
-		(pin "6"
-			(uuid "eedab715-f2e3-46ce-858a-b5756e72afbe")
-		)
-		(pin "4"
-			(uuid "2c5109be-ca53-4b85-87bd-18a09008da2b")
-		)
-		(pin "7"
-			(uuid "d8599db2-b619-42c0-b999-9c52ca437043")
-		)
-		(pin "9"
-			(uuid "be76a9af-5ead-4ea9-9333-72c11511f914")
-		)
-		(pin "10"
-			(uuid "5547b8ef-43b1-43a2-a2c6-40d37f28f143")
-		)
-		(pin "1"
-			(uuid "5bdb7db8-ce62-49e3-abe7-96c8a284f56c")
-		)
-		(pin "8"
-			(uuid "c5f5419f-f1c4-4102-9a44-200ee22f9df4")
-		)
-		(pin "3"
-			(uuid "9f28b9aa-ce49-4164-87e3-ff3ac57d3829")
-		)
-		(pin "2"
-			(uuid "590f4222-0968-4f02-a389-c9124f474732")
-		)
-		(instances
-			(project "03_Analog_Front_End_Board"
-				(path "/8c8ffaed-8258-4707-addc-1c5043c1d22c"
-					(reference "DAIC1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Capacitors:Murata_GCM188R71E105KA64D")
 		(at 181.61 201.93 90)
 		(unit 1)
@@ -41533,7 +39426,7 @@
 				)
 			)
 		)
-		(property "Supplier Price ($)" "0.20"
+		(property "Supplier Price ($)" "0.19"
 			(at 198.755 201.93 0)
 			(hide yes)
 			(show_name no)
@@ -41925,7 +39818,7 @@
 				)
 			)
 		)
-		(property "Supplier Price ($)" "0.28"
+		(property "Supplier Price ($)" "0.32"
 			(at 257.81 85.725 0)
 			(hide yes)
 			(show_name no)
@@ -42135,7 +40028,7 @@
 				)
 			)
 		)
-		(property "Short Description" "RES 73.2K OHM 1% 1/10W 0402"
+		(property "Short Description" "RES 73.2K OHM 1% 1/16W 0402"
 			(at 194.945 71.755 0)
 			(hide yes)
 			(show_name no)
@@ -42318,7 +40211,7 @@
 				)
 			)
 		)
-		(property "Supplier Price ($)" "0.20"
+		(property "Supplier Price ($)" "0.19"
 			(at 307.975 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -42512,7 +40405,7 @@
 				)
 			)
 		)
-		(property "Supplier Price ($)" "0.20"
+		(property "Supplier Price ($)" "0.19"
 			(at 379.73 249.555 0)
 			(hide yes)
 			(show_name no)
@@ -42781,199 +40674,6 @@
 			(project "03_Analog_Front_End_Board"
 				(path "/8c8ffaed-8258-4707-addc-1c5043c1d22c"
 					(reference "R22")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Resistors:Vishay_CRCW040266K5FKED")
-		(at 355.6 228.6 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "ca9e7279-a002-4722-8bf0-97cf6a20709c")
-		(property "Reference" "R40"
-			(at 355.6 225.552 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(face "Helvetica")
-					(size 1.016 1.016)
-					(bold yes)
-				)
-			)
-		)
-		(property "Value" "100kΩ(±1%)"
-			(at 355.6 227.076 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(face "Helvetica")
-					(size 1.016 1.016)
-				)
-			)
-		)
-		(property "Footprint" "Resistors:0402 (1005 Metric)"
-			(at 370.205 227.965 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
-			(at 370.205 227.965 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "66.5 kOhms ±1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
-			(at 370.205 227.965 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "Vishay"
-			(at 369.57 228.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer Part #" "CRCW040266K5FKED"
-			(at 370.205 227.965 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Supplier" "DigiKey"
-			(at 369.57 228.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Supplier Part #" "541-66.5KLCT-ND"
-			(at 370.205 227.965 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Supplier Price ($)" "0.10"
-			(at 370.205 227.965 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Short Description" "RES 66.5K OHM 1% 1/10W 0402"
-			(at 370.205 227.965 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Package" "0402 (1005 Metric)"
-			(at 370.205 227.965 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Type" "SMD"
-			(at 369.57 228.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Category" "Resistor"
-			(at 370.205 228.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Subcategory" "Surface Mount Think Film Resistor"
-			(at 370.205 227.965 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "7838b8ef-b84c-4891-b52e-b911b2f5ab58")
-		)
-		(pin "2"
-			(uuid "8cde9308-8f90-4e00-96c6-b71648583091")
-		)
-		(instances
-			(project "03_Analog_Front_End_Board"
-				(path "/8c8ffaed-8258-4707-addc-1c5043c1d22c"
-					(reference "R40")
 					(unit 1)
 				)
 			)
@@ -44364,7 +42064,7 @@
 				)
 			)
 		)
-		(property "Supplier Price ($)" "0.51"
+		(property "Supplier Price ($)" "0.57"
 			(at 181.61 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -45382,7 +43082,7 @@
 				)
 			)
 		)
-		(property "Supplier Price ($)" "0.20"
+		(property "Supplier Price ($)" "0.19"
 			(at 226.695 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -45576,7 +43276,7 @@
 				)
 			)
 		)
-		(property "Supplier Price ($)" "0.20"
+		(property "Supplier Price ($)" "0.19"
 			(at 338.455 228.6 0)
 			(hide yes)
 			(show_name no)
@@ -45652,86 +43352,6 @@
 			(project "03_Analog_Front_End_Board"
 				(path "/8c8ffaed-8258-4707-addc-1c5043c1d22c"
 					(reference "C25")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Power Rails:GND")
-		(at 396.24 146.05 0)
-		(mirror y)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "e503a19d-9d5d-48f7-b2e0-12ae7a433670")
-		(property "Reference" "#PWR049"
-			(at 396.24 144.05 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1 1)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 396.24 149.606 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(face "Helvetica")
-					(size 1.016 1.016)
-					(bold yes)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 396.24 146.05 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1 1)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 396.24 146.05 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1 1)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 396.24 146.05 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "906432f3-30a5-468e-9cca-a41570c69152")
-		)
-		(instances
-			(project "03_Analog_Front_End_Board"
-				(path "/8c8ffaed-8258-4707-addc-1c5043c1d22c"
-					(reference "#PWR049")
 					(unit 1)
 				)
 			)
@@ -45855,7 +43475,7 @@
 				)
 			)
 		)
-		(property "Supplier Price ($)" "0.51"
+		(property "Supplier Price ($)" "0.57"
 			(at 181.61 -91.44 0)
 			(hide yes)
 			(show_name no)
@@ -45933,6 +43553,201 @@
 			(project "03_Analog_Front_End_Board"
 				(path "/8c8ffaed-8258-4707-addc-1c5043c1d22c"
 					(reference "J3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Resistors:Vishay_CRCW0402100KFKED")
+		(at 355.6 214.63 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "e650e909-ba0f-4a89-86ce-6d83a08d0a00")
+		(property "Reference" "R42"
+			(at 355.6 211.074 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(face "Helvetica")
+					(size 1.016 1.016)
+					(thickness 0.254)
+					(bold yes)
+				)
+			)
+		)
+		(property "Value" "100kΩ(±1%)"
+			(at 355.6 212.598 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(face "Helvetica")
+					(size 1.016 1.016)
+					(thickness 0.254)
+				)
+			)
+		)
+		(property "Footprint" "Resistors:0402 (1005 Metric)"
+			(at 373.38 213.995 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
+			(at 373.38 213.995 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "100 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
+			(at 373.38 213.995 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Vishay"
+			(at 373.38 215.265 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part #" "CRCW0402100KFKED"
+			(at 373.38 213.995 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier" "DigiKey"
+			(at 373.38 215.265 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier Part #" "541-100KLCT-ND"
+			(at 373.38 213.995 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Short Description" "RES 100K OHM 1% 1/16W 0402"
+			(at 373.38 213.995 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "0402 (1005 Metric)"
+			(at 373.38 213.995 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Type" "SMD"
+			(at 373.38 215.265 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Category" "Resistor"
+			(at 373.38 215.265 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Subcategory" "Surface Mount Think Film Resistor"
+			(at 373.38 213.995 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier Price ($)" "0.10"
+			(at 373.38 214.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "559cfa47-20f7-4ecb-9e75-5be15eacf73e")
+		)
+		(pin "1"
+			(uuid "56b9247c-6fff-44f6-9ed8-23639e30a557")
+		)
+		(instances
+			(project "03_Analog_Front_End_Board"
+				(path "/8c8ffaed-8258-4707-addc-1c5043c1d22c"
+					(reference "R42")
 					(unit 1)
 				)
 			)
@@ -46052,7 +43867,7 @@
 				)
 			)
 		)
-		(property "Supplier Price ($)" "0.14"
+		(property "Supplier Price ($)" "0.13"
 			(at 175.26 173.355 0)
 			(hide yes)
 			(show_name no)
@@ -46135,7 +43950,7 @@
 	)
 	(symbol
 		(lib_id "Power Rails:+1V65")
-		(at 349.25 228.6 0)
+		(at 349.25 233.68 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -46145,7 +43960,7 @@
 		(dnp no)
 		(uuid "eadbea85-88d7-4670-9a54-8b366baaf86e")
 		(property "Reference" "#PWR36"
-			(at 349.25 239.776 0)
+			(at 349.25 244.856 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -46156,7 +43971,7 @@
 			)
 		)
 		(property "Value" "+1V65"
-			(at 349.25 225.298 0)
+			(at 349.25 230.378 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -46168,7 +43983,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 349.25 228.6 0)
+			(at 349.25 233.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -46179,7 +43994,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 349.25 228.6 0)
+			(at 349.25 233.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -46190,7 +44005,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 349.25 228.6 0)
+			(at 349.25 233.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -46326,7 +44141,7 @@
 				)
 			)
 		)
-		(property "Supplier Price ($)" "0.14"
+		(property "Supplier Price ($)" "0.15"
 			(at 73.66 156.845 0)
 			(hide yes)
 			(show_name no)
@@ -46523,7 +44338,7 @@
 				)
 			)
 		)
-		(property "Supplier Price ($)" "0.28"
+		(property "Supplier Price ($)" "0.32"
 			(at 257.81 47.625 0)
 			(hide yes)
 			(show_name no)
@@ -46604,199 +44419,6 @@
 			(project "03_Analog_Front_End_Board"
 				(path "/8c8ffaed-8258-4707-addc-1c5043c1d22c"
 					(reference "Q1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Resistors:Vishay_CRCW040266K5FKED")
-		(at 370.84 214.63 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "f1c86924-8f85-4c71-ba25-ee626166dd42")
-		(property "Reference" "R41"
-			(at 370.84 211.582 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(face "Helvetica")
-					(size 1.016 1.016)
-					(bold yes)
-				)
-			)
-		)
-		(property "Value" "100kΩ(±1%)"
-			(at 370.586 213.106 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(face "Helvetica")
-					(size 1.016 1.016)
-				)
-			)
-		)
-		(property "Footprint" "Resistors:0402 (1005 Metric)"
-			(at 385.445 213.995 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
-			(at 385.445 213.995 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "66.5 kOhms ±1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film"
-			(at 385.445 213.995 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "Vishay"
-			(at 384.81 214.63 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer Part #" "CRCW040266K5FKED"
-			(at 385.445 213.995 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Supplier" "DigiKey"
-			(at 384.81 214.63 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Supplier Part #" "541-66.5KLCT-ND"
-			(at 385.445 213.995 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Supplier Price ($)" "0.10"
-			(at 385.445 213.995 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Short Description" "RES 66.5K OHM 1% 1/10W 0402"
-			(at 385.445 213.995 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Package" "0402 (1005 Metric)"
-			(at 385.445 213.995 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Type" "SMD"
-			(at 384.81 214.63 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Category" "Resistor"
-			(at 385.445 214.63 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Subcategory" "Surface Mount Think Film Resistor"
-			(at 385.445 213.995 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "df03275b-e763-4c73-9cad-b283d28c030e")
-		)
-		(pin "2"
-			(uuid "25de4e02-4349-4568-b05c-97fcb8bcc5b1")
-		)
-		(instances
-			(project "03_Analog_Front_End_Board"
-				(path "/8c8ffaed-8258-4707-addc-1c5043c1d22c"
-					(reference "R41")
 					(unit 1)
 				)
 			)
@@ -47583,7 +45205,7 @@
 				)
 			)
 		)
-		(property "Supplier Price ($)" "0.20"
+		(property "Supplier Price ($)" "0.19"
 			(at 307.975 127 0)
 			(hide yes)
 			(show_name no)

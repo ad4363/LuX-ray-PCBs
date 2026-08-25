@@ -1,0 +1,115 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+80.434657,-91.575,0.0,top,C1,,1206 (3216 Metric),1206 (3216 Metric),4.7µF(±10%),smt
+147.0,-115.35,90.0,top,C10,,0805 (2012 Metric),0805 (2012 Metric),2.2µF(±10%),smt
+150.5,-118.25,180.0,top,C11,,0603 (1608 Metric),0603 (1608 Metric),1µF(±10%),smt
+169.550835,-116.1,0.0,top,C12,,0402 (1005 Metric),0402 (1005 Metric),0.1µF(±10%),smt
+169.05,-122.332,-90.0,top,C13,,0402 (1005 Metric),0402 (1005 Metric),0.01µF(±10%),smt
+171.85,-122.3,0.0,top,C14,,0805 (2012 Metric),0805 (2012 Metric),2.2µF(±10%),smt
+122.5,-65.75,90.0,top,C15,,1206 (3216 Metric),1206 (3216 Metric),4.7µF(±10%),smt
+156.0,-81.2,180.0,top,C16,,1206 (3216 Metric),1206 (3216 Metric),4.7µF(±10%),smt
+149.0,-81.0,0.0,top,C17,,0402 (1005 Metric),0402 (1005 Metric),0.1µF(±10%),smt
+140.674981,-75.238598,90.0,top,C18,,0201 (0603 Metric),0201 (0603 Metric),6.8pF(±0.25pF),smt
+146.0,-75.95,0.0,top,C19,,0402 (1005 Metric),0402 (1005 Metric),0.01µF(±10%),smt
+74.934657,-94.3,180.0,top,C2,,1210 (3225 Metric),1210 (3225 Metric),10µF(±10%),smt
+130.0,-100.0,180.0,top,C20,,0402 (1005 Metric),0402 (1005 Metric),0.1µF(±10%),smt
+129.1,-70.5,180.0,top,C21,,0603 (1608 Metric),0603 (1608 Metric),1µF(±10%),smt
+146.0,-74.5,0.0,top,C22,,0402 (1005 Metric),0402 (1005 Metric),4.7nF(±10%),smt
+146.0,-72.0,90.0,top,C23,,0603 (1608 Metric),0603 (1608 Metric),220nF(±10%),smt
+153.995693,-71.45,90.0,top,C24,,0402 (1005 Metric),0402 (1005 Metric),7.5pF(±0.1pF),smt
+170.0,-100.0,180.0,top,C25,,0402 (1005 Metric),0402 (1005 Metric),0.1µF(±10%),smt
+169.578,-79.2,0.0,top,C26,,0603 (1608 Metric),0603 (1608 Metric),1µF(±10%),smt
+69.85,-92.1,0.0,top,C3,,1206 (3216 Metric),1206 (3216 Metric),4.7µF(±10%),smt
+108.0,-87.2,0.0,top,C4,,0603 (1608 Metric),0603 (1608 Metric),1µF(±10%),smt
+130.475,-116.3,0.0,top,C7,,0402 (1005 Metric),0402 (1005 Metric),0.1µF(±10%),smt
+129.05,-122.218,-90.0,top,C8,,0402 (1005 Metric),0402 (1005 Metric),0.01µF(±10%),smt
+131.85,-122.25,0.0,top,C9,,0805 (2012 Metric),0805 (2012 Metric),2.2µF(±10%),smt
+56.03,-78.295,0.0,top,D1,,0603 (1608 Metric),0603 (1608 Metric),150060GS75000,smt
+56.03,-92.795,0.0,top,D2,,0603 (1608 Metric),0603 (1608 Metric),150060BS75000,smt
+56.03,-85.295001,0.0,top,D3,,0603 (1608 Metric),0603 (1608 Metric),150060YS75000,smt
+56.03,-100.295,0.0,top,D4,,0603 (1608 Metric),0603 (1608 Metric),150060RS75000,smt
+143.5,-81.4,0.0,top,D5,,SOD-323,SOD-323,"CUS10S30,H3F",smt
+156.0,-77.5,0.0,top,D6,,SOD-323,SOD-323,"CUS10S30,H3F",smt
+86.29,-105.789998,180.0,top,J1,,Nonstandard 24-pin,Wurth_61302411121,61302411121,tht
+159.5,-128.21,90.0,top,J10,,Nonstandard 2-pin,Samtec_PSS-02-01-T-S,PSS-02-01-T-S,tht
+159.5,-139.21,90.0,top,J11,,Nonstandard 2-pin,Samtec_PSS-02-01-T-S,PSS-02-01-T-S,tht
+123.75,-86.0,180.0,top,J12,,Nonstandard 2-pin,Samtec_PSS-02-01-T-S,PSS-02-01-T-S,tht
+132.5,-89.0,90.0,top,J13,,Nonstandard 2-pin,Samtec_PSS-02-01-T-S,PSS-02-01-T-S,tht
+140.0,-89.0,90.0,top,J14,,Nonstandard 2-pin,Samtec_PSS-02-01-T-S,PSS-02-01-T-S,tht
+140.0,-99.7,90.0,top,J15,,Nonstandard 2-pin,Samtec_PSS-02-01-T-S,PSS-02-01-T-S,tht
+176.25,-86.25,0.0,top,J16,,Nonstandard 2-pin,Samtec_PSS-02-01-T-S,PSS-02-01-T-S,tht
+167.5,-89.0,90.0,top,J17,,Nonstandard 2-pin,Samtec_PSS-02-01-T-S,PSS-02-01-T-S,tht
+160.0,-89.0,90.0,top,J18,,Nonstandard 2-pin,Samtec_PSS-02-01-T-S,PSS-02-01-T-S,tht
+160.0,-99.75,90.0,top,J19,,Nonstandard 2-pin,Samtec_PSS-02-01-T-S,PSS-02-01-T-S,tht
+86.29,-111.049999,180.0,top,J2,,Nonstandard 24-pin,Sullins_PPTC241LFBN-RC,PPTC241LFBN-RC,tht
+218.0,-135.0,180.0,top,J20,,Nonstandard 20-pin,Wurth_61302011821,61302011821,tht
+218.0,-142.5,180.0,top,J21,,Nonstandard 20-pin,Wurth_61302011121,61302011121,tht
+218.0,-65.0,180.0,top,J22,,Nonstandard 20-pin,Wurth_61302011821,61302011821,tht
+218.0,-57.5,180.0,top,J23,,Nonstandard 20-pin,Wurth_61302011121,61302011121,tht
+86.29,-138.909999,180.0,top,J3,,Nonstandard 24-pin,Wurth_61302411121,61302411121,tht
+86.29,-133.910001,180.0,top,J4,,Nonstandard 24-pin,Sullins_PPTC241LFBN-RC,PPTC241LFBN-RC,tht
+90.0,-65.0,180.0,top,J5,,Nonstandard 2-pin,Keystone_1096,1096,tht
+105.0,-100.0,180.0,top,J6,,Nonstandard 3-pin,Samtec_TSM-103-01-S-SV,TSM-103-01-S-SV,smt
+143.25,-125.21,180.0,top,J8,,Nonstandard 2-pin,Samtec_PSS-02-01-T-S,PSS-02-01-T-S,tht
+152.0,-128.25,90.0,top,J9,,Nonstandard 2-pin,Samtec_PSS-02-01-T-S,PSS-02-01-T-S,tht
+130.0,-62.5,0.0,top,L1,,Nonstadard 2-pin,TDK_B82464P4472M000,4.7µH(±20%),smt
+170.0,-62.5,180.0,top,L2,,Nonstadard 2-pin,TDK_B82464P4472M000,4.7µH(±20%),smt
+55.0,-55.0,0.0,top,MH1,,${PACKAGE},MountingHole_3.2mm_M3_Pad,MountingHole_3.2mm_M3_Pad,tht
+55.0,-145.0,0.0,top,MH2,,${PACKAGE},MountingHole_3.2mm_M3_Pad,MountingHole_3.2mm_M3_Pad,tht
+255.0,-55.0,0.0,top,MH3,,${PACKAGE},MountingHole_3.2mm_M3_Pad,MountingHole_3.2mm_M3_Pad,tht
+255.0,-145.0,0.0,top,MH4,,${PACKAGE},MountingHole_3.2mm_M3_Pad,MountingHole_3.2mm_M3_Pad,tht
+105.0,-90.0,0.0,top,OPA1,,8-VSSOP,8-VSSOP,OPA2323IDGKR,smt
+75.0,-90.0,180.0,top,PMIC1,,20-QFN,20-QFN,MCP73871-2CCI/ML,smt
+130.0,-119.0,-90.0,top,PMIC3,,SOT23-5,SOT23-5,TPS79325DBVR,smt
+150.0,-115.0,-90.0,top,PMIC4,,SOT23-6,SOT23-6,LM2776DBVT,smt
+170.0,-119.0,-90.0,top,PMIC5,,SOT23-5,SOT23-5,TPS72325QDBVRQ1,smt
+150.0,-77.5,90.0,top,PMIC6,,24-VQFN,24-VQFN,TPS65131RGET,smt
+122.5045,-74.77245,90.0,top,PMIC7,,DPAK,DPAK,MC78M12CDTRKG,smt
+176.4492,-75.0,-90.0,top,PMIC8,,DPAK,DPAK,MC79M12CDTRKG,smt
+61.03,-85.295,180.0,top,Q1,,SOT23-3,SOT23-3,BSS138,smt
+61.03,-92.795,180.0,top,Q2,,SOT23-3,SOT23-3,BSS138,smt
+61.03,-78.295,180.0,top,Q3,,SOT23-3,SOT23-3,BSS138,smt
+61.03,-100.295,180.0,top,Q4,,SOT23-3,SOT23-3,AO3401A,smt
+82.8,-88.575,-90.0,top,R1,,0402 (1005 Metric),0402 (1005 Metric),124kΩ(±1%),smt
+55.984999,-79.695,0.0,top,R10,,0402 (1005 Metric),0402 (1005 Metric),1kΩ(±1%),smt
+56.03,-94.295,0.0,top,R11,,0402 (1005 Metric),0402 (1005 Metric),1kΩ(±1%),smt
+56.03,-86.745,0.0,top,R12,,0402 (1005 Metric),0402 (1005 Metric),1kΩ(±1%),smt
+56.0284,-101.793399,0.0,top,R13,,0402 (1005 Metric),0402 (1005 Metric),1kΩ(±1%),smt
+71.2,-89.06,180.0,top,R14,,0402 (1005 Metric),0402 (1005 Metric),20kΩ(±1%),smt
+71.2,-90.274999,180.0,top,R15,,0402 (1005 Metric),0402 (1005 Metric),2kΩ(±1%),smt
+90.0,-90.0,-90.0,top,R16,,2512 (6332 Metric),2512 (6332 Metric),100mΩ(±0.1%),smt
+100.8,-89.451672,0.0,top,R17,,0402 (1005 Metric),0402 (1005 Metric),10kΩ(±1%),smt
+100.8,-90.66,0.0,top,R18,,0402 (1005 Metric),0402 (1005 Metric),10kΩ(±1%),smt
+102.0,-87.3,180.0,top,R19,,0402 (1005 Metric),0402 (1005 Metric),30kΩ(±1%),smt
+80.5,-88.575,-90.0,top,R2,,0402 (1005 Metric),0402 (1005 Metric),10kΩ(±1%),smt
+102.05,-92.45,0.0,top,R20,,0402 (1005 Metric),0402 (1005 Metric),30kΩ(±1%),smt
+109.365,-89.400003,180.0,top,R21,,0402 (1005 Metric),0402 (1005 Metric),12kΩ(±1%),smt
+109.36,-90.61,0.0,top,R22,,0402 (1005 Metric),0402 (1005 Metric),30kΩ(±1%),smt
+151.498172,-81.004307,180.0,top,R24,,0402 (1005 Metric),0402 (1005 Metric),100Ω(±1%),smt
+141.0,-77.95,-90.0,top,R25,,0402 (1005 Metric),0402 (1005 Metric),47kΩ(±1%),smt
+143.59,-77.948172,90.0,top,R26,,0402 (1005 Metric),0402 (1005 Metric),1MΩ(±1%),smt
+146.0,-77.948172,-90.0,top,R27,,0402 (1005 Metric),0402 (1005 Metric),91kΩ(±1%),smt
+149.104307,-71.448172,-90.0,top,R28,,0402 (1005 Metric),0402 (1005 Metric),82.5kΩ(±1%),smt
+151.6,-71.45,90.0,top,R29,,0402 (1005 Metric),0402 (1005 Metric),1MΩ(±1%),smt
+78.25,-88.575,90.0,top,R3,,0402 (1005 Metric),0402 (1005 Metric),976Ω(±1%),smt
+154.0,-74.5,180.0,top,R30,,0402 (1005 Metric),0402 (1005 Metric),47kΩ(±1%),smt
+60.08,-88.095,0.0,top,R4,,0402 (1005 Metric),0402 (1005 Metric),47kΩ(±1%),smt
+62.13,-88.095,180.0,top,R5,,0402 (1005 Metric),0402 (1005 Metric),47kΩ(±1%),smt
+60.005,-95.57,0.0,top,R6,,0402 (1005 Metric),0402 (1005 Metric),47kΩ(±1%),smt
+62.055,-95.57,180.0,top,R7,,0402 (1005 Metric),0402 (1005 Metric),47kΩ(±1%),smt
+60.005,-81.095,0.0,top,R8,,0402 (1005 Metric),0402 (1005 Metric),47kΩ(±1%),smt
+62.059999,-81.095,180.0,top,R9,,0402 (1005 Metric),0402 (1005 Metric),47kΩ(±1%),smt
+75.0,-80.0,0.0,top,TP1,,Nonstandard 1-pin,Keystone_5019,5019,smt
+150.0,-88.5,0.0,top,TP10,,Nonstandard 1-pin,Keystone_5019,5019,smt
+130.0,-98.1,0.0,top,TP11,,Nonstandard 1-pin,Keystone_5019,5019,smt
+135.0,-74.9,0.0,top,TP12,,Nonstandard 1-pin,Keystone_5019,5019,smt
+170.0,-98.0,0.0,top,TP13,,Nonstandard 1-pin,Keystone_5019,5019,smt
+165.0,-75.1,0.0,top,TP14,,Nonstandard 1-pin,Keystone_5019,5019,smt
+105.0,-80.0,0.0,top,TP15,,Nonstandard 1-pin,Keystone_5019,5019,smt
+150.0,-97.5,0.0,top,TP16,,Nonstandard 1-pin,Keystone_5019,5019,smt
+90.0,-100.0,0.0,top,TP2,,Nonstandard 1-pin,Keystone_5019,5019,smt
+90.0,-80.0,0.0,top,TP3,,Nonstandard 1-pin,Keystone_5019,5019,smt
+130.0,-106.25,0.0,top,TP5,,Nonstandard 1-pin,Keystone_5019,5019,smt
+130.0,-135.0,0.0,top,TP6,,Nonstandard 1-pin,Keystone_5019,5019,smt
+150.0,-106.25,0.0,top,TP7,,Nonstandard 1-pin,Keystone_5019,5019,smt
+170.0,-106.5,0.0,top,TP8,,Nonstandard 1-pin,Keystone_5019,5019,smt
+169.75,-135.0,0.0,top,TP9,,Nonstandard 1-pin,Keystone_5019,5019,smt

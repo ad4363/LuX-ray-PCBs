@@ -1,0 +1,42 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+145.65,-100.636,90.0,top,C1,,1210 (3225 Metric),1210 (3225 Metric),22µF(±10%),smt
+144.4,-119.886,90.0,top,C10,,1206 (3216 Metric),1206 (3216 Metric),4.7µF(±10%),smt
+146.75,-119.181001,90.0,top,C11,,0402 (1005 Metric),0402 (1005 Metric),0.1µF(±10%),smt
+144.2,-131.15,-90.0,top,C12,,0402 (1005 Metric),0402 (1005 Metric),0.1µF(±10%),smt
+145.65,-95.795,-90.0,top,C2,,1210 (3225 Metric),1210 (3225 Metric),22µF(±10%),smt
+146.5,-106.036,-90.0,top,C3,,0402 (1005 Metric),0402 (1005 Metric),0.1µF(±10%),smt
+149.9,-95.795,-90.0,top,C4,,1210 (3225 Metric),1210 (3225 Metric),22µF(±10%),smt
+145.75,-110.886,-90.0,top,C5,,1210 (3225 Metric),1210 (3225 Metric),10µF(±10%),smt
+157.125,-110.925,-90.0,top,C6,,1210 (3225 Metric),1210 (3225 Metric),10µF(±10%),smt
+140.5,-64.886,90.0,top,C7,,1210 (3225 Metric),1210 (3225 Metric),10µF(±10%),smt
+143.0,-64.886,90.0,top,C8,,0402 (1005 Metric),0402 (1005 Metric),0.1µF(±10%),smt
+149.4125,-87.075605,90.0,top,C9,,0402 (1005 Metric),0402 (1005 Metric),0.1µF(±10%),smt
+151.43,-119.861,-90.0,top,CIIC1,,24-QFN (4x4),24-QFN,CP2102N-A02-GQFN24R,smt
+151.455,-123.261,0.0,top,D1,,SOD-883,SOD-883,SP3222-02ETG,smt
+145.0,-106.036,90.0,top,D2,,SOD-323,SOD-323,BAT760-7,smt
+151.5,-125.9,0.0,top,D3,,SMB,SMB,SACB5.0,smt
+161.99,-64.53,180.0,top,D4,,0603 (1608 Metric),0603 (1608 Metric),150060GS75000,smt
+145.0,-126.57,-90.0,top,DAIC1,,10-VSSOP,10-VSSOP,ADS1115IDGSR,smt
+151.78,-128.79,0.0,top,J1,,USB Micro B,Amphenol_10118192-0001LF,10118192-0001LF,smt
+151.43,-113.25,0.0,top,J2,,Nonstandard 3-pin,Samtec_TSM-103-01-S-SV,TSM-103-01-S-SV,smt
+140.0,-98.21,-90.0,top,J3,,Nonstandard 24-pin,Wurth_61302411121,61302411121,tht
+162.86,-98.21,-90.0,top,J4,,Nonstandard 24-pin,Wurth_61302411121,61302411121,tht
+151.43,-106.586,0.0,top,L1,,Nonstadard 2-pin,Coilcraft_XFL4020-152MEC,1.5µH(±20%),smt
+151.43,-64.49,0.0,top,MCU1,,Nonstandard 61-pin,Espressif_ESP32-PICO-MINI-02-N8R2,ESP32-PICO-MINI-02-N8R2,smt
+149.9,-100.636,0.0,top,PMIC1,,14-VSON,14-VSON,TPS63021,smt
+150.0,-90.236,-90.0,top,Q1,,SOT-363,SOT-363,BC847BDW1T1G,smt
+148.135001,-89.211,-90.0,top,R10,,0402 (1005 Metric),0402 (1005 Metric),10kΩ(±1%),smt
+148.135001,-91.236,90.0,top,R11,,0402 (1005 Metric),0402 (1005 Metric),10kΩ(±1%),smt
+142.5,-126.2,90.0,top,R12,,0402 (1005 Metric),0402 (1005 Metric),10kΩ(±1%),smt
+145.81,-131.53,0.0,top,R13,,0402 (1005 Metric),0402 (1005 Metric),10kΩ(±1%),smt
+145.81,-130.32,0.0,top,R14,,0402 (1005 Metric),0402 (1005 Metric),10kΩ(±1%),smt
+161.99,-63.03,0.0,top,R3,,0402 (1005 Metric),0402 (1005 Metric),1kΩ(±1%),smt
+150.6,-87.090999,-90.0,top,R4,,0402 (1005 Metric),0402 (1005 Metric),10kΩ(±1%),smt
+158.1,-126.5,180.0,top,R5,,0402 (1005 Metric),0402 (1005 Metric),1kΩ(±1%),smt
+158.1,-125.2,180.0,top,R6,,0402 (1005 Metric),0402 (1005 Metric),1kΩ(±1%),smt
+146.75,-121.236,-90.0,top,R7,,0402 (1005 Metric),0402 (1005 Metric),1kΩ(±1%),smt
+143.8,-116.386,-90.0,top,R8,,0402 (1005 Metric),0402 (1005 Metric),47.5kΩ(±1%),smt
+145.005,-116.386,90.0,top,R9,,0402 (1005 Metric),0402 (1005 Metric),22.1kΩ(±1%),smt
+141.25,-131.0,180.0,top,SW1,,Custom,Omron_B3U-1000P,B3U-1000P,smt
+161.34,-130.96,0.0,top,SW2,,Custom,Omron_B3U-1000P,B3U-1000P,smt
+158.1,-117.9,90.0,top,SW3,,Custom,Nidec_CL-SB-12B-01T,CL-SB-12B-01T,smt
